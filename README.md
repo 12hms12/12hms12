@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Python
 -🔭 I’m currently working on Python
-- 📫 How to reach me:  you cannot.
-- gjbm
+-📫 Reach me on : https://www.linkedin.com/in/harsh-shah-76b370205/
 
